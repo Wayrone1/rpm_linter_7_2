@@ -1,7 +1,7 @@
 """Summator module."""
 
 
-def summator(fst : int, snd: int) -> int:
+def summator(fst: int, snd: int) -> int:
     """
     Get the sum of two values.
 
